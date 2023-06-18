@@ -1,5 +1,5 @@
-[![shon logo](http://nano-assets.gopagoda.io/readme-headers/shon.png)](http://nanobox.io/open-source#shon)
- [![Build Status](https://travis-ci.org/nanopack/shon.svg)](https://travis-ci.org/nanopack/shon)
+[![shon logo](http://microbox.rocks/assets/readme-headers/shon.png)](http://microbox.cloud/open-source#shon)
+ [![Build Status](https://github.com/mu-box/shon/actions/workflows/ci.yaml/badge.svg)](https://github.com/mu-box/shon/actions)
 
 # shon
 
@@ -17,10 +17,10 @@ Stable/Complete
 
 ### Contributing
 
-Contributions to the shon project are welcome and encouraged. Shon is a [Nanobox](https://nanobox.io) project and contributions should follow the [Nanobox Contribution Process & Guidelines](https://docs.nanobox.io/contributing/).
+Contributions to the shon project are welcome and encouraged. Shon is a [Microbox](https://microbox.cloud) project and contributions should follow the [Microbox Contribution Process & Guidelines](https://docs.microbox.cloud/contributing/).
 
 ### Licence
 
-Mozilla Public License Version 2.0
+This project is released under [The MIT License](http://opensource.org/licenses/MIT).
 
-[![open source](http://nano-assets.gopagoda.io/open-src/nanobox-open-src.png)](http://nanobox.io/open-source)
+[![open source](http://microbox.rocks/assets/open-src/microbox-open-src.png)](http://microbox.cloud/open-source)
